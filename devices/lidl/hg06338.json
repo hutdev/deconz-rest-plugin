@@ -26,6 +26,9 @@
                     "name": "attr/id"
                 },
                 {
+                    "name": "config/tuya_unlock"
+                },
+                {
                     "name": "attr/lastannounced"
                 },
                 {
